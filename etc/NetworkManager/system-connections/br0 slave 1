@@ -1,0 +1,14 @@
+[connection]
+id=br0 slave 1
+uuid=27dc52ab-fad5-49a2-9282-3312390fb539
+type=ethernet
+interface-name=eno1
+master=br0
+permissions=
+secondaries=
+slave-type=bridge
+
+[ethernet]
+duplex=full
+mac-address=F4:4D:30:6E:84:B6
+mac-address-blacklist=

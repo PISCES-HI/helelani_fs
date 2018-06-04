@@ -1,0 +1,20 @@
+[connection]
+id=VPN Bridge
+uuid=ae6018e7-7b4a-4fcf-8415-f5b9f789484a
+type=bridge
+interface-name=br0
+permissions=
+secondaries=
+timestamp=1527036768
+
+[ipv4]
+address1=10.10.153.8/24
+dns-search=
+may-fail=false
+method=manual
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+ip6-privacy=0
+method=ignore

@@ -1,0 +1,2 @@
+ATTRS{product}=="Teseo2 GNSS USB Receive", MODE="0666"
+

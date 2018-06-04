@@ -1,0 +1,25 @@
+[connection]
+id=Helelani Server
+uuid=576d5d2c-dbaf-39b8-bd93-46caf2075bc0
+type=ethernet
+autoconnect-priority=-999
+permissions=
+secondaries=
+timestamp=1522464780
+
+[ethernet]
+duplex=full
+mac-address=F4:4D:30:6E:84:B6
+mac-address-blacklist=
+
+[ipv4]
+address1=10.10.153.8/24
+dns-search=
+may-fail=false
+method=manual
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+ip6-privacy=0
+method=auto

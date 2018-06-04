@@ -1,0 +1,13 @@
+[Unit]
+Description=Helelani ROS Service
+After=multi-user.target
+
+[Service]
+ExecStart=/home/helelani/helelani_server.sh
+StandardOutput=null
+Restart=on-failure
+User=helelani
+Group=helelani
+
+[Install]
+WantedBy=helelani.target

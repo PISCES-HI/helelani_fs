@@ -1,0 +1,4 @@
+ATTR{name}=="dln2-i2c-*", MODE="0666"
+SUBSYSTEM=="gpio", ACTION=="add", ATTR{label}=="dln2", RUN+="/home/helelani/setup_gpio.sh"
+SUBSYSTEM=="iio", ACTION=="add", ATTR{name}=="dln2-adc", RUN+="/home/helelani/setup_adc.sh", MODE="0644"
+
