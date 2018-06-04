@@ -1,0 +1,100 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=HI, L=Hilo, O=PISCES, OU=HelelaniVPN, CN=HelelaniVPN/name=HelelaniVPN/emailAddress=dbedt.pisces@hawaii.gov
+        Validity
+            Not Before: Mar 31 01:43:45 2018 GMT
+            Not After : Mar 28 01:43:45 2028 GMT
+        Subject: C=US, ST=HI, L=Hilo, O=PISCES, OU=HelelaniVPN, CN=HelelaniRover/name=HelelaniVPN/emailAddress=dbedt.pisces@hawaii.gov
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:a0:7c:3b:a9:27:a6:17:e7:54:f0:df:df:c3:61:
+                    7a:ae:6f:b8:30:d3:31:b0:5b:67:01:53:8b:48:f5:
+                    c2:f7:c0:28:69:7a:78:57:bf:6d:05:66:33:3d:82:
+                    2a:75:1d:3f:1d:06:db:f0:a8:ee:8f:68:d1:c3:a7:
+                    ee:af:cb:81:09:8d:f0:0a:c0:67:71:70:24:c8:f9:
+                    6d:2d:a5:50:c9:6b:c2:61:f6:60:19:ef:16:ab:0e:
+                    79:a7:06:c1:34:0b:12:79:1c:4f:8f:d7:9d:0f:05:
+                    53:88:5c:02:26:0a:b9:ea:ed:80:ed:87:d0:10:f2:
+                    f1:e8:37:64:b0:84:55:c8:53:a2:45:39:d1:c0:07:
+                    04:44:0a:0d:70:69:4b:ea:96:18:ad:62:8c:21:83:
+                    3f:27:b8:a6:d3:72:25:af:b7:f4:a9:75:7e:c8:cb:
+                    28:f8:e5:94:70:b7:0b:5d:0b:b8:f6:92:1b:e9:28:
+                    1c:7c:34:42:c5:48:f5:de:6d:de:d2:9f:3f:47:c8:
+                    d3:c1:f7:56:a5:f0:a2:b9:a3:e2:0c:29:0b:fe:06:
+                    21:a5:dc:b1:96:cb:52:3a:a4:52:95:4d:3b:95:22:
+                    c3:47:5b:52:88:c4:00:05:7a:71:49:8e:e2:76:57:
+                    6b:1f:99:e1:5e:b1:6d:48:bd:63:e6:ef:c7:a5:41:
+                    6b:4b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Cert Type: 
+                SSL Server
+            Netscape Comment: 
+                Easy-RSA Generated Server Certificate
+            X509v3 Subject Key Identifier: 
+                54:A2:A0:9C:EF:A6:73:50:E8:F1:77:68:EB:45:46:29:D8:FE:77:47
+            X509v3 Authority Key Identifier: 
+                keyid:0E:E1:5E:2A:BD:33:E2:0F:09:3E:AB:40:09:60:E8:00:D2:A8:57:25
+                DirName:/C=US/ST=HI/L=Hilo/O=PISCES/OU=HelelaniVPN/CN=HelelaniVPN/name=HelelaniVPN/emailAddress=dbedt.pisces@hawaii.gov
+                serial:DC:3C:C8:6C:D9:47:95:B4
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                DNS:HelelaniRover
+    Signature Algorithm: sha256WithRSAEncryption
+         7c:33:1d:94:1f:dc:fe:da:e8:41:73:67:22:5a:be:77:08:1e:
+         10:55:ef:d8:c9:37:f6:16:84:04:fb:60:5d:ed:4b:ea:4e:c4:
+         d5:3f:a8:eb:c6:2e:5a:1d:78:4f:65:9a:1c:1c:c9:1b:f6:70:
+         d7:78:05:f7:44:ff:fd:4e:76:dc:05:db:b7:0c:8d:04:40:e8:
+         5b:19:c8:34:62:28:a9:1c:42:98:77:96:d9:5f:79:c0:34:4e:
+         df:a2:84:e4:c4:fc:52:b3:53:14:dd:79:ee:3f:c8:92:0b:ee:
+         d8:70:02:38:87:6d:0a:c9:40:c5:bf:70:06:8c:7d:fc:07:ba:
+         f9:1f:ea:4c:c5:1f:9b:a3:b0:cb:e5:5b:0b:1c:ce:b1:b3:84:
+         ca:f9:e4:56:8b:97:9b:b0:c6:95:1c:f9:f8:3d:61:59:83:49:
+         a3:87:2c:40:85:7c:0c:95:d2:38:08:ad:7d:9f:40:4d:2d:41:
+         f5:51:99:28:57:5a:c4:b5:48:06:a8:ac:fd:49:ac:59:79:8a:
+         89:0a:d9:24:26:91:6b:14:1d:84:b2:a3:66:aa:47:13:2d:0e:
+         6a:33:ae:cf:c3:a5:d3:6e:47:bd:07:34:be:bc:63:8a:1e:c0:
+         5c:49:d4:b9:d4:9a:2e:dd:70:af:12:e0:9e:1b:15:62:2d:6f:
+         c6:ce:2c:b0
+-----BEGIN CERTIFICATE-----
+MIIFWDCCBECgAwIBAgIBATANBgkqhkiG9w0BAQsFADCBpDELMAkGA1UEBhMCVVMx
+CzAJBgNVBAgTAkhJMQ0wCwYDVQQHEwRIaWxvMQ8wDQYDVQQKEwZQSVNDRVMxFDAS
+BgNVBAsTC0hlbGVsYW5pVlBOMRQwEgYDVQQDEwtIZWxlbGFuaVZQTjEUMBIGA1UE
+KRMLSGVsZWxhbmlWUE4xJjAkBgkqhkiG9w0BCQEWF2RiZWR0LnBpc2Nlc0BoYXdh
+aWkuZ292MB4XDTE4MDMzMTAxNDM0NVoXDTI4MDMyODAxNDM0NVowgaYxCzAJBgNV
+BAYTAlVTMQswCQYDVQQIEwJISTENMAsGA1UEBxMESGlsbzEPMA0GA1UEChMGUElT
+Q0VTMRQwEgYDVQQLEwtIZWxlbGFuaVZQTjEWMBQGA1UEAxMNSGVsZWxhbmlSb3Zl
+cjEUMBIGA1UEKRMLSGVsZWxhbmlWUE4xJjAkBgkqhkiG9w0BCQEWF2RiZWR0LnBp
+c2Nlc0BoYXdhaWkuZ292MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+oHw7qSemF+dU8N/fw2F6rm+4MNMxsFtnAVOLSPXC98AoaXp4V79tBWYzPYIqdR0/
+HQbb8Kjuj2jRw6fur8uBCY3wCsBncXAkyPltLaVQyWvCYfZgGe8Wqw55pwbBNAsS
+eRxPj9edDwVTiFwCJgq56u2A7YfQEPLx6DdksIRVyFOiRTnRwAcERAoNcGlL6pYY
+rWKMIYM/J7im03Ilr7f0qXV+yMso+OWUcLcLXQu49pIb6SgcfDRCxUj13m3e0p8/
+R8jTwfdWpfCiuaPiDCkL/gYhpdyxlstSOqRSlU07lSLDR1tSiMQABXpxSY7idldr
+H5nhXrFtSL1j5u/HpUFrSwIDAQABo4IBjzCCAYswCQYDVR0TBAIwADARBglghkgB
+hvhCAQEEBAMCBkAwNAYJYIZIAYb4QgENBCcWJUVhc3ktUlNBIEdlbmVyYXRlZCBT
+ZXJ2ZXIgQ2VydGlmaWNhdGUwHQYDVR0OBBYEFFSioJzvpnNQ6PF3aOtFRinY/ndH
+MIHZBgNVHSMEgdEwgc6AFA7hXiq9M+IPCT6rQAlg6ADSqFcloYGqpIGnMIGkMQsw
+CQYDVQQGEwJVUzELMAkGA1UECBMCSEkxDTALBgNVBAcTBEhpbG8xDzANBgNVBAoT
+BlBJU0NFUzEUMBIGA1UECxMLSGVsZWxhbmlWUE4xFDASBgNVBAMTC0hlbGVsYW5p
+VlBOMRQwEgYDVQQpEwtIZWxlbGFuaVZQTjEmMCQGCSqGSIb3DQEJARYXZGJlZHQu
+cGlzY2VzQGhhd2FpaS5nb3aCCQDcPMhs2UeVtDATBgNVHSUEDDAKBggrBgEFBQcD
+ATALBgNVHQ8EBAMCBaAwGAYDVR0RBBEwD4INSGVsZWxhbmlSb3ZlcjANBgkqhkiG
+9w0BAQsFAAOCAQEAfDMdlB/c/troQXNnIlq+dwgeEFXv2Mk39haEBPtgXe1L6k7E
+1T+o68YuWh14T2WaHBzJG/Zw13gF90T//U523AXbtwyNBEDoWxnINGIoqRxCmHeW
+2V95wDRO36KE5MT8UrNTFN157j/Ikgvu2HACOIdtCslAxb9wBox9/Ae6+R/qTMUf
+m6Owy+VbCxzOsbOEyvnkVouXm7DGlRz5+D1hWYNJo4csQIV8DJXSOAitfZ9ATS1B
+9VGZKFdaxLVIBqis/UmsWXmKiQrZJCaRaxQdhLKjZqpHEy0OajOuz8Ol025HvQc0
+vrxjih7AXEnUudSaLt1wrxLgnhsVYi1vxs4ssA==
+-----END CERTIFICATE-----
