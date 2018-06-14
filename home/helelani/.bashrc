@@ -115,5 +115,5 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
-source /opt/ros/lunar/setup.bash
+source /opt/ros/melodic/setup.bash
 source /home/helelani/rover_workspace/devel/setup.bash

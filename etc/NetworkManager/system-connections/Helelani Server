@@ -3,9 +3,10 @@ id=Helelani Server
 uuid=576d5d2c-dbaf-39b8-bd93-46caf2075bc0
 type=ethernet
 autoconnect-priority=-999
+interface-name=eno1
 permissions=
 secondaries=
-timestamp=1522464780
+timestamp=1527036895
 
 [ethernet]
 duplex=full

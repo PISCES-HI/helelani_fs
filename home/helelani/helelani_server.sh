@@ -1,5 +1,5 @@
 #!/bin/bash
-source /opt/ros/lunar/setup.bash
+source /opt/ros/melodic/setup.bash
 source /home/helelani/rover_workspace/devel/setup.bash
 export ROS_IP=10.10.153.8
 rosclean purge -y
